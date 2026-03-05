@@ -1,4 +1,4 @@
-package com.fusion.dsa;
+package com.fusion.dsa.recursion;
 
 public class Factorial {
 
